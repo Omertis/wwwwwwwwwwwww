@@ -1,5 +1,5 @@
 {
   "prefix":".",
-  "token":"NDM4OTM1MzA0NTY5ODgwNTgx.Ddoilg.-UeVhVqrudFDqBA0KW3qNx39TJk"
-  
+  "token":"process.env.BOT_TOKEN"
+ 
 }
